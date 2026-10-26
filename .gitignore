@@ -48,3 +48,20 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# Never commit data
+data/
+*.dta
+*.DTA
+*.sav
+*.SAV
+*.csv
+*.xlsx
+*.xls
+*.shp
+*.shx
+*.dbf
+*.prj
+*.cpg
+*.geojson
+*.tif
